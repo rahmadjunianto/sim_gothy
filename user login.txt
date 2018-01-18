@@ -1,0 +1,12 @@
+Manager
+username = trio
+password = 1
+Admin Penjualan
+username = bagus
+password = 1
+Admin Distribusi
+username = bayu
+password = 1
+Admin keuangan 
+username = rahmad
+password = 1
